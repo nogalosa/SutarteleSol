@@ -1,3 +1,3 @@
 # SutarteleSol
 
-![BPMN](https://raw.githubusercontent.com/nogalosa/SutarteleSol/diagram.png)
+![BPMN](https://github.com/nogalosa/SutarteleSol/blob/master/diagram.png?raw=true)
